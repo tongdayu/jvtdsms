@@ -1,15 +1,15 @@
 {  
-      "name": "tongdayu/jvtd-sms",  
-      "description": "Yii2 tongdayu jvtd-sms",  
+      "name": "tongdayu/jvtdsms",  
+      "description": "Yii2 tongdayu jvtdsms",  
       "keywords": [  
         "yii2",  
         "jvtd-sms"  
       ],  
-      "homepage": "https://github.com/tongdayu/jvtd-sms",  
+      "homepage": "https://github.com/tongdayu/jvtdsms",  
       "type": "yii2-extension",  
       "license": "MIT",  
       "support": {  
-        "source": "https://github.com/tongdayu/jvtd-sms"  
+        "source": "https://github.com/tongdayu/jvtdsms"  
       },  
       "authors": [  
         {  
