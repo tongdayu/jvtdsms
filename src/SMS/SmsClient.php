@@ -1,9 +1,10 @@
 <?php
 
 namespace SMS;
-use SMS\SignatureHelper
+use SMS\SignatureHelper\SignatureHelper;
 
-class SmsClient{
+class SmsClient
+{
 
     /**
 	* 发送短信
